@@ -105,6 +105,14 @@ Ressursallokering i Mesos
 - Workflows
 - Behov for rask tilgang til PB med data
 
+^ Vanskelig å kjøre i skyen
+
+---
+
+![](potion.gif)
+
+^ Her er vi innom 4 ulike applikasjoner
+
 ---
 
 # Verktøy vi bruker
@@ -181,7 +189,14 @@ Ressursallokering i Mesos
 
 ---
 
-![inline](potion.gif)
+# Erfaringer
+
+- Mange (ikke for mange) applikasjoner
+- Oppdeling etter usecase/deploymentfrekvens
+- Deling av biblioteker _med versjonering_ (NPM)
+- Docker er nice
+- Mesos-drift er vanskelig..
+
 
 ---
 
